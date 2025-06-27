@@ -27,7 +27,7 @@ class DropdownContainer {
 class Button {
   constructor(displayName, displayIcon) {
     this.displayName = displayName;
-    this.displayImage = displayIcon;
+    this.displayIcon = displayIcon;
     this.value = this.displayName;
   }
 }
