@@ -1,3 +1,4 @@
+### (Live Demo)[https://yashu483.github.io/dropdown/]
 # Exercise: Dropdown
 
 an exercise to create a dropdown entirely using javascript
@@ -20,6 +21,6 @@ Thanks to all of creators whose created and owned images / Icons I have used in 
 
 - <div>Edit Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect"> Pixel perfect </a> from <a href="https://www.flaticon.com/" title="Flaticon">[www.flaticon.com](http://www.flaticon.com/)'</a></div>
 
--<div>Delete Icons made by <a href="[https://www.freepik.com](https://www.freepik.com/)" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">[www.flaticon.com](http://www.flaticon.com/)'</a></div>
+- <div>Delete Icons made by <a href="[https://www.freepik.com](https://www.freepik.com/)" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">[www.flaticon.com](http://www.flaticon.com/)'</a></div>
 
 - <div> Menu Icons made by <a href="https://www.flaticon.com/authors/najmunnahar" title="NajmunNahar"> NajmunNahar </a> from <a href="https://www.flaticon.com/" title="Flaticon">[www.flaticon.com](http://www.flaticon.com/)'</a></div>
