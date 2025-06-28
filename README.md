@@ -1,4 +1,4 @@
-### (Live Demo)[https://yashu483.github.io/dropdown/]
+### [Live Demo](https://yashu483.github.io/dropdown/)
 # Exercise: Dropdown
 
 an exercise to create a dropdown entirely using javascript
