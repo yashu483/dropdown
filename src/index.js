@@ -7,4 +7,4 @@ import './styles.css';
 import { vsCodeDemo } from './dropdown-content';
 import { DOMHandler } from './show-content-into-dom';
 
-DOMHandler.showIntoDOM(vsCodeDemo);
+DOMHandler.execute(vsCodeDemo);

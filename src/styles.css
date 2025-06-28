@@ -36,9 +36,34 @@ body {
   background-color: rgb(255, 255, 255);
 }
 
+.main-container {
+  display: flex;
+  padding: 50px;
+  background-color: rgb(0, 255, 255);
+  border-radius: 20px;
+}
+
+.menu-container {
+  position: relative;
+  z-index: 999;
+  background-color: rgb(69, 95, 115);
+  border-radius: 15px;
+}
+.menu-container:hover {
+  border-bottom-right-radius: 0;
+}
+.menu-icon {
+  width: 40px;
+  height: 40px;
+  z-index: 999;
+}
+
 /* button container */
 .dropdown-container {
   display: grid;
+  position: absolute;
+  top: 40px;
+  left: -280px;
   grid-template-rows: repeat(auto-fill, max-content);
   background-color: rgb(69, 95, 115);
   color: white;
