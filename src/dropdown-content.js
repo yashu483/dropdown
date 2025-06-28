@@ -10,7 +10,7 @@ import copyIcon from './resources/icons/copy.png';
 import editIcon from './resources/icons/edit.png';
 import deleteIcon from './resources/icons/bin.png';
 import newDocumentIcon from './resources/icons/new-document.png';
-import newFolderIcon from './resources/icons/new-folder';
+import newFolderIcon from './resources/icons/new-folder.png';
 import copilotIcon from './resources/icons/artificial-intelligence.png';
 import cutIcon from './resources/icons/scissors.png';
 import findIcons from './resources/icons/search.png';

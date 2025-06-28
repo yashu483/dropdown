@@ -1,8 +1,25 @@
 * {
   box-sizing: border-box;
   border-collapse: collapse;
+  user-select: none;
+}
+@font-face {
+  font-family: 'roboto';
+  src:
+    url('./fonts/Roboto-Regular.woff') format('woff'),
+    url('./fonts/Roboto-Regular.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'inter';
+  src:
+    url('./fonts/Inter18pt-Regular.woff') format('woff'),
+    url('./fonts/Inter18pt-Regular.woff2') format('woff2');
+}
+
+:root {
+  font-family: 'roboto', 'inter', system-ui;
+}
 html,
 body {
   margin: 0;
@@ -11,17 +28,42 @@ body {
 }
 
 body {
+  width: 100vw;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(255, 255, 255);
 }
 
 /* button container */
 .dropdown-container {
+  display: grid;
+  grid-template-rows: repeat(auto-fill, max-content);
+  background-color: rgb(69, 95, 115);
+  color: white;
+  font-weight: 600;
+  padding: 40px 10px;
+  border-radius: 2px;
 }
 
 .button-div {
+  display: flex;
+  width: 300px;
+  gap: 20px;
+  justify-content: flex-start;
+  padding: 10px;
+  border-radius: 50px;
 }
 
+.button-div:hover {
+  background-color: rgb(18, 32, 42);
+}
+
+.button-div:active {
+  background-color: skyblue;
+}
 .icons {
+  width: 1.1rem;
+  height: 1.1rem;
 }
